@@ -7,4 +7,9 @@ venv/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+*.code-workspace
+.vscode/*.code-workspace
 .DS_Store
