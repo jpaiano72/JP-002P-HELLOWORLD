@@ -13,3 +13,6 @@ venv/
 *.code-workspace
 .vscode/*.code-workspace
 .DS_Store
+
+# /arena skill run output
+.arena/
